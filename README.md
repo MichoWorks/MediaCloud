@@ -19,9 +19,6 @@ MediaCloud is an advanced IPTV platform designed to provide a seamless streaming
 You can access the MediaCloud platform online at: [http://mediacloud.live/](http://mediacloud.live/)
 
 
-## Development
-
-For development-related information or contributions, please refer to our [contributing guidelines](CONTRIBUTING.md).
 
 ## License
 
