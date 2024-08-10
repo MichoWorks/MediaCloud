@@ -1,3 +1,4 @@
+
 # MediaCloud
 
 **MediaCloud**: A modern IPTV platform with HLS support, user management, and a user-friendly interface for seamless streaming and channel management.
@@ -18,11 +19,16 @@ MediaCloud is an advanced IPTV platform designed to provide a seamless streaming
 
 You can access the MediaCloud platform online at: [http://mediacloud.live/](http://mediacloud.live/)
 
+## Subscription
+
+To access the MediaCloud service, a subscription fee of 120 ₪ (Israeli Shekels) is required. Please visit our website for more information on how to subscribe and enjoy our services.
 
 
 ## License
 
 The contents of this project are proprietary and protected by copyright. You are not permitted to copy, modify, distribute, or use this project without explicit written permission from the author. Unauthorized use, reproduction, or distribution of this project is strictly prohibited and may result in legal action.
+
+**Copyright © [2024] [MichoWorks]**
 
 ## Contact
 
